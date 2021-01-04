@@ -5,7 +5,7 @@ if  board[index] != " "
 
   elsif board[index] != ""
 
-    els if board[index] != nil #if index is NOT blank (true)
+  else if board[index] != nil #if index is NOT blank (true)
 
 end
 
