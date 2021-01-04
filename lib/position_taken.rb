@@ -1,9 +1,13 @@
 # code your #position_taken? method here!
 def position_taken? (board, index)
 
-  board[index] != " " || board[index] != "" ||  board[index] != nil #if index is NOT blank (true)
+if  board[index] != " "
 
+  elsif board[index] != ""
 
-  
+    els if board[index] != nil #if index is NOT blank (true)
+
+end
+
 
 end
