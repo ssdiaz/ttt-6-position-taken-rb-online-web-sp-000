@@ -2,7 +2,7 @@
 def position_taken? (board, index)
 
 if  board[index] == " "
-
+  puts "true"
   elsif board[index] != ""
 
   elsif board[index] != nil #if index is NOT blank (true)
