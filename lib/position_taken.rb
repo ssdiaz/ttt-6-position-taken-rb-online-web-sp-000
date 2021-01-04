@@ -2,7 +2,7 @@
 def position_taken? (board, index)
 
   if board[index] == " " #if index is NOT blank (true)
-    board[index].to eq(false)
+     board[index].to false
   end
 
 end
