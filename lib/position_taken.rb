@@ -5,7 +5,7 @@ if board[index] == "X" || "O"
   board[index] = true
 
 elsif    board[index] == "" || " " || nil
-board[index] = true
+board[index] = false
 
 end
 end
