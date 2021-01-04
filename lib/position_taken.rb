@@ -6,7 +6,7 @@ if board[index] == " " || board[index] == "" || board[index] == nil
   board[index] = false
 
 else
-  taken = true
+  board[index] = true
 
 end
 end
